@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "IOC lines up French Alps, Salt Lake City to host 2030, 2034 Winter Olympics | CBC Sports",
+            "description": "Salt Lake City being preferred as a shoo-in to host the 2034 Winter Olympics was expected. The surprise was the IOC favouring the French Alps bid for the 2030 edition on Wednesday.",
+            "url": "http://www.cbc.ca/sports/olympics/olympics-winter-hosts-france-salt-lake-city-1.7043563",
+            "urlToImage": "https://i.cbc.ca/1.7043581.1701279520!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/olympic-rings-112923.jpg",
+            "publishedAt": "2023-11-29T17:52:17.6265926Z",
+            "content": "Salt Lake City being preferred as a shoo-in to host the 2034 Winter Olympics was expected. The surprise was the IOC favouring the French Alps bid for the 2030 edition on Wednesday.\r\nAiming to finaliz… [+979 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Sports Illustrated accused of passing AI articles off as human-created content",
+            "description": "Sports Illustrated is being accused of publishing product reviews from authors that don't actually exist and had AI-generated headshots. The magazine's parent company has denied the allegations, saying the articles were written and edited by humans from a thi…",
+            "url": "https://www.cbsnews.com/video/sports-illustrated-accused-of-passing-ai-articles-off-as-human-created-content/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/29/87639aca-1c3b-4d35-aa06-b93c0382f40e/thumbnail/1200x630/9ae68f3527099dd0409624a2649cf381/cbsn-fusion-sports-illustrated-accused-of-passing-ai-articles-off-as-human-content-thumbnail-2487654-640x360.jpg?v=5659e73acd91751548aa89950cf015b0",
+            "publishedAt": "2023-11-29T17:39:04+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Cameron Temple",
+            "title": "Fans rename Eddie Hearn ‘Shreddie Hearn’ as he cuts new ripped physique...",
+            "description": "Boxing fans have a new nickname for Eddie Hearn after a picture was posted on social media of him looking ripped. Hearn has been on a fitness journey inspired by fellow combat sports promoter Dana …",
+            "url": "https://talksport.com/sport/1658984/fans-rename-eddie-hearn-shreddie-hearn-ripped-physique/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/11/crop-1659041.jpg?strip=all&quality=100&w=431&h=287&crop=1",
+            "publishedAt": "2023-11-29T14:21:38Z",
+            "content": "Boxing fans have a new nickname for Eddie Hearn after a picture was posted on social media of him looking ripped. \r\nHearn has been on a fitness journey inspired by fellow combat sports promoter Dana … [+2677 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "DAVID BAUDER",
+            "title": "Sports Illustrated is the latest media company damaged by an AI experiment gone wrong",
+            "description": "NEW YORK (AP) — Computer-generated writers ... writing computer-generated stories? Sports Illustrated is the latest media company to see its reputation damaged by being less than forthcoming — if not outright dishonest — about who or what is writing its stori…",
+            "url": "https://apnews.com/479cc3869c0638df5bbb26d4b1e4f18f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a8c67751fda54211b4465d2a08ecdb0d/3000.jpeg",
+            "publishedAt": "2023-11-28T22:44:29Z",
+            "content": "NEW YORK (AP) — Computer-generated writers ... writing computer-generated stories? Sports Illustrated is the latest media company to see its reputation damaged by being less than forthcoming — if not… [+5464 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "New Micah Parsons Show ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.6381564Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " Mikal Bridges Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.3882176Z",
+            "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+        }
+    ]
+}
